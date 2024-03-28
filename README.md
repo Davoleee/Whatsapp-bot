@@ -1,2 +1,2 @@
 # Whatsapp-bot
-what's vot created by David
+what's bot created by David
